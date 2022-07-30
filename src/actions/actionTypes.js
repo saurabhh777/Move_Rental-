@@ -1,0 +1,32 @@
+export const DELETE_GENRE="DELETE_GENRE";
+export const GET_ALL_GENRES="GET_ALL_GENRES";
+export const ADD_GENRE="ADD_GENRE"
+export const UPDATE_GENRE="UPDATE_GENRE";
+
+
+export const DELETE_CUSTOMER="DELETE_CUSTOMER";
+export const GET_ALL_CUSTOMERS="GET_ALL_CUSTOMERS";
+export const ADD_CUSTOMER="ADD_CUSTOMER"
+export const UPDATE_CUSTOMER="UPDATE_CUSTOMER";
+
+
+
+
+export const DELETE_MOVIE="DELETE_MOVIE";
+export const GET_ALL_MOVIES="GET_ALL_MOVIES";
+export const ADD_MOVIE="ADD_MOVIE"
+export const UPDATE_MOVIE="UPDATE_MOVIE";
+export const GET_MOVIES_COUNT="GET_MOVIES_COUNT";
+
+
+
+export const DELETE_RENTAL="DELETE_RENTAL";
+export const GET_ALL_RENTALS="GET_ALL_RENTALS";
+export const ADD_RENTAL="ADD_RENTAL";
+export const RETURN_RENTAL="RETURN_RENTAL";
+
+
+
+
+export const REGTSTER_USER="REGTSTER_USER";
+export const LOGIN_USER ="LOGIN_USER"
